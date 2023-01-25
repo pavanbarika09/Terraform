@@ -1,11 +1,11 @@
 variable "region" {
-    default = "ap-south-1"
+    default = "us-east-1"
 }
 
 
 
 variable "vpc_id" {
-    default = "vpc-0771b69fc0dcf2e11"
+    default = "vpc-0a24bc73"
 }   
 
 variable "cluster_name" {
